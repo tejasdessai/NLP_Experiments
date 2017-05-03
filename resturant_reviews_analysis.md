@@ -1,3 +1,5 @@
+*******************************************NLP Experiments*************************************************
+
 I am creating a classification engine that would read a set of reviews left on the webpage of a resturant and predict whether the reviews are positive or negative. The dataset has been divided into a training and test set to build and test the model.
 
 Loading the text mining package and loading data
